@@ -14,7 +14,7 @@ I enjoy turning ideas into scalable digital products with clean UI/UX and effici
 ### 🚀 Connect with me
 <p align="left">
 <a href="https://github.com/DevPatel4093">GitHub</a>
-<a href="https://linkedin.com">LinkedIn</a>
+<a href="https://www.linkedin.com/in/dev-patel-3a89a2284">LinkedIn</a>
 <a href="mailto:devpatelwork22@gmail.com">Email</a>
 </p>
 
@@ -40,6 +40,9 @@ I enjoy turning ideas into scalable digital products with clean UI/UX and effici
 **Tools**
 - Git, GitHub, VS Code, Figma, Cloudflare Pages, Vercel
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
