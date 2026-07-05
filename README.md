@@ -13,13 +13,10 @@ I enjoy turning ideas into scalable digital products with clean UI/UX and effici
 
 ### 🚀 Connect with me
 <p align="left">
-<a href="https://github.com/DevPatel4093">GitHub</a>
-<a href="https://www.linkedin.com/in/dev-patel-3a89a2284">LinkedIn</a>
-<a href="mailto:devpatelwork22@gmail.com">Email</a>
-</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-patel-3a89a2284/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevPatel4093)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpatelwork22@gmail.com)
+</p>
 ---
 
 ### 🛠️ Tech Stack
